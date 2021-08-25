@@ -1,0 +1,6383 @@
+instance=1,n=25,m=10,d=3,type=B1
+BinType:1, cost=601
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:2, cost=759
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:3, cost=792
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:4, cost=804
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:5, cost=810
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:6, cost=884
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:7, cost=940
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:8, cost=1028
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:9, cost=1029
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:10, cost=1105
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+//////////////////////////////////////////////////
+instance=2,n=25,m=20,d=3,type=B1
+BinType:1, cost=601
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:2, cost=759
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:3, cost=792
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:4, cost=804
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:5, cost=806
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+BinType:6, cost=810
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:7, cost=820
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+BinType:8, cost=843
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+BinType:9, cost=852
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+BinType:10, cost=884
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:11, cost=895
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+BinType:12, cost=922
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+BinType:13, cost=940
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:14, cost=1007
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+BinType:15, cost=1028
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:16, cost=1029
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:17, cost=1059
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+BinType:18, cost=1104
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+BinType:19, cost=1105
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+BinType:20, cost=1396
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////////
+instance=3,n=25,m=50,d=3,type=B1
+BinType:1, cost=589
+    no=1, value=115
+    no=2, value=287
+    no=3, value=187
+BinType:2, cost=601
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:3, cost=606
+    no=1, value=179
+    no=2, value=165
+    no=3, value=262
+BinType:4, cost=616
+    no=1, value=176
+    no=2, value=231
+    no=3, value=209
+BinType:5, cost=624
+    no=1, value=105
+    no=2, value=375
+    no=3, value=144
+BinType:6, cost=636
+    no=1, value=112
+    no=2, value=349
+    no=3, value=175
+BinType:7, cost=721
+    no=1, value=264
+    no=2, value=114
+    no=3, value=343
+BinType:8, cost=741
+    no=1, value=282
+    no=2, value=167
+    no=3, value=292
+BinType:9, cost=758
+    no=1, value=200
+    no=2, value=186
+    no=3, value=372
+BinType:10, cost=759
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:11, cost=763
+    no=1, value=242
+    no=2, value=111
+    no=3, value=410
+BinType:12, cost=784
+    no=1, value=322
+    no=2, value=134
+    no=3, value=328
+BinType:13, cost=792
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:14, cost=804
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:15, cost=806
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+BinType:16, cost=810
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:17, cost=810
+    no=1, value=295
+    no=2, value=165
+    no=3, value=350
+BinType:18, cost=820
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+BinType:19, cost=835
+    no=1, value=341
+    no=2, value=199
+    no=3, value=295
+BinType:20, cost=836
+    no=1, value=271
+    no=2, value=163
+    no=3, value=402
+BinType:21, cost=843
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+BinType:22, cost=843
+    no=1, value=182
+    no=2, value=346
+    no=3, value=315
+BinType:23, cost=849
+    no=1, value=352
+    no=2, value=343
+    no=3, value=154
+BinType:24, cost=852
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+BinType:25, cost=864
+    no=1, value=279
+    no=2, value=129
+    no=3, value=456
+BinType:26, cost=884
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:27, cost=895
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+BinType:28, cost=922
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+BinType:29, cost=929
+    no=1, value=447
+    no=2, value=189
+    no=3, value=293
+BinType:30, cost=933
+    no=1, value=138
+    no=2, value=492
+    no=3, value=303
+BinType:31, cost=940
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:32, cost=958
+    no=1, value=483
+    no=2, value=131
+    no=3, value=344
+BinType:33, cost=971
+    no=1, value=336
+    no=2, value=185
+    no=3, value=450
+BinType:34, cost=992
+    no=1, value=455
+    no=2, value=313
+    no=3, value=224
+BinType:35, cost=997
+    no=1, value=381
+    no=2, value=339
+    no=3, value=277
+BinType:36, cost=1007
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+BinType:37, cost=1028
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:38, cost=1029
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:39, cost=1047
+    no=1, value=361
+    no=2, value=476
+    no=3, value=210
+BinType:40, cost=1050
+    no=1, value=386
+    no=2, value=293
+    no=3, value=371
+BinType:41, cost=1059
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+BinType:42, cost=1067
+    no=1, value=368
+    no=2, value=246
+    no=3, value=453
+BinType:43, cost=1082
+    no=1, value=355
+    no=2, value=322
+    no=3, value=405
+BinType:44, cost=1084
+    no=1, value=470
+    no=2, value=429
+    no=3, value=185
+BinType:45, cost=1104
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+BinType:46, cost=1105
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+BinType:47, cost=1175
+    no=1, value=410
+    no=2, value=424
+    no=3, value=341
+BinType:48, cost=1181
+    no=1, value=309
+    no=2, value=379
+    no=3, value=493
+BinType:49, cost=1220
+    no=1, value=317
+    no=2, value=475
+    no=3, value=428
+BinType:50, cost=1396
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////////
+instance=4,n=25,m=10,d=5,type=B1
+BinType:1, cost=1090
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:2, cost=1201
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:3, cost=1320
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:4, cost=1360
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:5, cost=1453
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:6, cost=1475
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:7, cost=1529
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:8, cost=1531
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:9, cost=1608
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:10, cost=1902
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////////
+instance=5,n=25,m=20,d=5,type=B1
+BinType:1, cost=1090
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:2, cost=1201
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:3, cost=1265
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+    no=4, value=252
+    no=5, value=170
+BinType:4, cost=1320
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:5, cost=1360
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:6, cost=1445
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+    no=4, value=171
+    no=5, value=422
+BinType:7, cost=1453
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:8, cost=1474
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+    no=4, value=173
+    no=5, value=495
+BinType:9, cost=1475
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:10, cost=1478
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+    no=4, value=270
+    no=5, value=104
+BinType:11, cost=1500
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+    no=4, value=363
+    no=5, value=242
+BinType:12, cost=1503
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+    no=4, value=480
+    no=5, value=203
+BinType:13, cost=1529
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:14, cost=1531
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:15, cost=1537
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+    no=4, value=198
+    no=5, value=332
+BinType:16, cost=1608
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:17, cost=1661
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+    no=4, value=326
+    no=5, value=276
+BinType:18, cost=1712
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+    no=4, value=445
+    no=5, value=345
+BinType:19, cost=1902
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+BinType:20, cost=2033
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+    no=4, value=239
+    no=5, value=398
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+//////////////////////////////////////////////
+instance=6,n=25,m=50,d=5,type=B1
+BinType:1, cost=1063
+    no=1, value=242
+    no=2, value=111
+    no=3, value=410
+    no=4, value=146
+    no=5, value=154
+BinType:2, cost=1064
+    no=1, value=179
+    no=2, value=165
+    no=3, value=262
+    no=4, value=324
+    no=5, value=134
+BinType:3, cost=1090
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:4, cost=1127
+    no=1, value=115
+    no=2, value=287
+    no=3, value=187
+    no=4, value=386
+    no=5, value=152
+BinType:5, cost=1189
+    no=1, value=138
+    no=2, value=492
+    no=3, value=303
+    no=4, value=122
+    no=5, value=134
+BinType:6, cost=1200
+    no=1, value=322
+    no=2, value=134
+    no=3, value=328
+    no=4, value=168
+    no=5, value=248
+BinType:7, cost=1201
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:8, cost=1212
+    no=1, value=341
+    no=2, value=199
+    no=3, value=295
+    no=4, value=257
+    no=5, value=120
+BinType:9, cost=1261
+    no=1, value=182
+    no=2, value=346
+    no=3, value=315
+    no=4, value=245
+    no=5, value=173
+BinType:10, cost=1265
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+    no=4, value=252
+    no=5, value=170
+BinType:11, cost=1281
+    no=1, value=105
+    no=2, value=375
+    no=3, value=144
+    no=4, value=301
+    no=5, value=356
+BinType:12, cost=1320
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:13, cost=1332
+    no=1, value=282
+    no=2, value=167
+    no=3, value=292
+    no=4, value=223
+    no=5, value=368
+BinType:14, cost=1344
+    no=1, value=176
+    no=2, value=231
+    no=3, value=209
+    no=4, value=383
+    no=5, value=345
+BinType:15, cost=1345
+    no=1, value=361
+    no=2, value=476
+    no=3, value=210
+    no=4, value=148
+    no=5, value=150
+BinType:16, cost=1358
+    no=1, value=112
+    no=2, value=349
+    no=3, value=175
+    no=4, value=296
+    no=5, value=426
+BinType:17, cost=1360
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:18, cost=1374
+    no=1, value=200
+    no=2, value=186
+    no=3, value=372
+    no=4, value=332
+    no=5, value=284
+BinType:19, cost=1387
+    no=1, value=352
+    no=2, value=343
+    no=3, value=154
+    no=4, value=339
+    no=5, value=199
+BinType:20, cost=1422
+    no=1, value=295
+    no=2, value=165
+    no=3, value=350
+    no=4, value=370
+    no=5, value=242
+BinType:21, cost=1426
+    no=1, value=271
+    no=2, value=163
+    no=3, value=402
+    no=4, value=183
+    no=5, value=407
+BinType:22, cost=1445
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+    no=4, value=171
+    no=5, value=422
+BinType:23, cost=1453
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:24, cost=1454
+    no=1, value=279
+    no=2, value=129
+    no=3, value=456
+    no=4, value=120
+    no=5, value=470
+BinType:25, cost=1474
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+    no=4, value=173
+    no=5, value=495
+BinType:26, cost=1475
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:27, cost=1478
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+    no=4, value=270
+    no=5, value=104
+BinType:28, cost=1486
+    no=1, value=381
+    no=2, value=339
+    no=3, value=277
+    no=4, value=286
+    no=5, value=203
+BinType:29, cost=1496
+    no=1, value=355
+    no=2, value=322
+    no=3, value=405
+    no=4, value=209
+    no=5, value=205
+BinType:30, cost=1500
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+    no=4, value=363
+    no=5, value=242
+BinType:31, cost=1503
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+    no=4, value=480
+    no=5, value=203
+BinType:32, cost=1510
+    no=1, value=336
+    no=2, value=185
+    no=3, value=450
+    no=4, value=277
+    no=5, value=262
+BinType:33, cost=1521
+    no=1, value=264
+    no=2, value=114
+    no=3, value=343
+    no=4, value=303
+    no=5, value=497
+BinType:34, cost=1529
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:35, cost=1531
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:36, cost=1537
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+    no=4, value=198
+    no=5, value=332
+BinType:37, cost=1547
+    no=1, value=410
+    no=2, value=424
+    no=3, value=341
+    no=4, value=208
+    no=5, value=164
+BinType:38, cost=1598
+    no=1, value=447
+    no=2, value=189
+    no=3, value=293
+    no=4, value=285
+    no=5, value=384
+BinType:39, cost=1608
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:40, cost=1661
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+    no=4, value=326
+    no=5, value=276
+BinType:41, cost=1703
+    no=1, value=317
+    no=2, value=475
+    no=3, value=428
+    no=4, value=107
+    no=5, value=376
+BinType:42, cost=1711
+    no=1, value=368
+    no=2, value=246
+    no=3, value=453
+    no=4, value=462
+    no=5, value=182
+BinType:43, cost=1712
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+    no=4, value=445
+    no=5, value=345
+BinType:44, cost=1724
+    no=1, value=455
+    no=2, value=313
+    no=3, value=224
+    no=4, value=242
+    no=5, value=490
+BinType:45, cost=1744
+    no=1, value=386
+    no=2, value=293
+    no=3, value=371
+    no=4, value=449
+    no=5, value=245
+BinType:46, cost=1805
+    no=1, value=483
+    no=2, value=131
+    no=3, value=344
+    no=4, value=387
+    no=5, value=460
+BinType:47, cost=1888
+    no=1, value=470
+    no=2, value=429
+    no=3, value=185
+    no=4, value=372
+    no=5, value=432
+BinType:48, cost=1902
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+BinType:49, cost=1994
+    no=1, value=309
+    no=2, value=379
+    no=3, value=493
+    no=4, value=345
+    no=5, value=468
+BinType:50, cost=2033
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+    no=4, value=239
+    no=5, value=398
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+instance=7,n=25,m=10,d=3,type=B2
+BinType:1, cost=423
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:2, cost=475
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:3, cost=476
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:4, cost=480
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:5, cost=480
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:6, cost=500
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:7, cost=519
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:8, cost=544
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:9, cost=552
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:10, cost=573
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////
+instance=8,n=25,m=20,d=3,type=B2
+BinType:1, cost=423
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:2, cost=475
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:3, cost=476
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:4, cost=480
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:5, cost=480
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:6, cost=481
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+BinType:7, cost=487
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+BinType:8, cost=491
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+BinType:9, cost=500
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:10, cost=500
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+BinType:11, cost=501
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+BinType:12, cost=512
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+BinType:13, cost=519
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:14, cost=544
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:15, cost=545
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+BinType:16, cost=552
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:17, cost=553
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+BinType:18, cost=572
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+BinType:19, cost=573
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+BinType:20, cost=645
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////
+instance=9,n=25,m=50,d=3,type=B2
+BinType:1, cost=412
+    no=1, value=115
+    no=2, value=287
+    no=3, value=187
+BinType:2, cost=415
+    no=1, value=105
+    no=2, value=375
+    no=3, value=144
+BinType:3, cost=422
+    no=1, value=179
+    no=2, value=165
+    no=3, value=262
+BinType:4, cost=423
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:5, cost=423
+    no=1, value=112
+    no=2, value=349
+    no=3, value=175
+BinType:6, cost=427
+    no=1, value=176
+    no=2, value=231
+    no=3, value=209
+BinType:7, cost=453
+    no=1, value=264
+    no=2, value=114
+    no=3, value=343
+BinType:8, cost=462
+    no=1, value=242
+    no=2, value=111
+    no=3, value=410
+BinType:9, cost=466
+    no=1, value=282
+    no=2, value=167
+    no=3, value=292
+BinType:10, cost=469
+    no=1, value=200
+    no=2, value=186
+    no=3, value=372
+BinType:11, cost=475
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:12, cost=475
+    no=1, value=322
+    no=2, value=134
+    no=3, value=328
+BinType:13, cost=476
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:14, cost=480
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:15, cost=480
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:16, cost=481
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+BinType:17, cost=486
+    no=1, value=295
+    no=2, value=165
+    no=3, value=350
+BinType:18, cost=487
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+BinType:19, cost=491
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+BinType:20, cost=491
+    no=1, value=271
+    no=2, value=163
+    no=3, value=402
+BinType:21, cost=493
+    no=1, value=279
+    no=2, value=129
+    no=3, value=456
+BinType:22, cost=496
+    no=1, value=341
+    no=2, value=199
+    no=3, value=295
+BinType:23, cost=496
+    no=1, value=352
+    no=2, value=343
+    no=3, value=154
+BinType:24, cost=497
+    no=1, value=182
+    no=2, value=346
+    no=3, value=315
+BinType:25, cost=500
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:26, cost=500
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+BinType:27, cost=501
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+BinType:28, cost=512
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+BinType:29, cost=512
+    no=1, value=138
+    no=2, value=492
+    no=3, value=303
+BinType:30, cost=518
+    no=1, value=483
+    no=2, value=131
+    no=3, value=344
+BinType:31, cost=519
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:32, cost=519
+    no=1, value=447
+    no=2, value=189
+    no=3, value=293
+BinType:33, cost=531
+    no=1, value=336
+    no=2, value=185
+    no=3, value=450
+BinType:34, cost=538
+    no=1, value=455
+    no=2, value=313
+    no=3, value=224
+BinType:35, cost=544
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:36, cost=545
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+BinType:37, cost=545
+    no=1, value=381
+    no=2, value=339
+    no=3, value=277
+BinType:38, cost=552
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:39, cost=552
+    no=1, value=361
+    no=2, value=476
+    no=3, value=210
+BinType:40, cost=553
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+BinType:41, cost=559
+    no=1, value=368
+    no=2, value=246
+    no=3, value=453
+BinType:42, cost=559
+    no=1, value=386
+    no=2, value=293
+    no=3, value=371
+BinType:43, cost=559
+    no=1, value=470
+    no=2, value=429
+    no=3, value=185
+BinType:44, cost=568
+    no=1, value=355
+    no=2, value=322
+    no=3, value=405
+BinType:45, cost=572
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+BinType:46, cost=573
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+BinType:47, cost=591
+    no=1, value=309
+    no=2, value=379
+    no=3, value=493
+BinType:48, cost=591
+    no=1, value=410
+    no=2, value=424
+    no=3, value=341
+BinType:49, cost=601
+    no=1, value=317
+    no=2, value=475
+    no=3, value=428
+BinType:50, cost=645
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////
+instance=10,n=25,m=10,d=5,type=B2
+BinType:1, cost=723
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:2, cost=752
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:3, cost=794
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:4, cost=814
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:5, cost=836
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:6, cost=838
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:7, cost=853
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:8, cost=859
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:9, cost=891
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:10, cost=961
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+instance=11,n=25,m=20,d=5,type=B2
+BinType:1, cost=723
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:2, cost=752
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:3, cost=775
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+    no=4, value=252
+    no=5, value=170
+BinType:4, cost=794
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:5, cost=814
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:6, cost=834
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+    no=4, value=173
+    no=5, value=495
+BinType:7, cost=835
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+    no=4, value=171
+    no=5, value=422
+BinType:8, cost=836
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:9, cost=837
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+    no=4, value=270
+    no=5, value=104
+BinType:10, cost=838
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:11, cost=846
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+    no=4, value=363
+    no=5, value=242
+BinType:12, cost=852
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+    no=4, value=480
+    no=5, value=203
+BinType:13, cost=853
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:14, cost=859
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:15, cost=867
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+    no=4, value=198
+    no=5, value=332
+BinType:16, cost=891
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:17, cost=899
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+    no=4, value=326
+    no=5, value=276
+BinType:18, cost=907
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+    no=4, value=445
+    no=5, value=345
+BinType:19, cost=961
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+BinType:20, cost=998
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+    no=4, value=239
+    no=5, value=398
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+instance=12,n=25,m=50,d=5,type=B2
+BinType:1, cost=706
+    no=1, value=242
+    no=2, value=111
+    no=3, value=410
+    no=4, value=146
+    no=5, value=154
+BinType:2, cost=717
+    no=1, value=179
+    no=2, value=165
+    no=3, value=262
+    no=4, value=324
+    no=5, value=134
+BinType:3, cost=723
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:4, cost=731
+    no=1, value=115
+    no=2, value=287
+    no=3, value=187
+    no=4, value=386
+    no=5, value=152
+BinType:5, cost=737
+    no=1, value=138
+    no=2, value=492
+    no=3, value=303
+    no=4, value=122
+    no=5, value=134
+BinType:6, cost=752
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:7, cost=761
+    no=1, value=322
+    no=2, value=134
+    no=3, value=328
+    no=4, value=168
+    no=5, value=248
+BinType:8, cost=765
+    no=1, value=341
+    no=2, value=199
+    no=3, value=295
+    no=4, value=257
+    no=5, value=120
+BinType:9, cost=775
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+    no=4, value=252
+    no=5, value=170
+BinType:10, cost=776
+    no=1, value=105
+    no=2, value=375
+    no=3, value=144
+    no=4, value=301
+    no=5, value=356
+BinType:11, cost=784
+    no=1, value=182
+    no=2, value=346
+    no=3, value=315
+    no=4, value=245
+    no=5, value=173
+BinType:12, cost=794
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:13, cost=795
+    no=1, value=361
+    no=2, value=476
+    no=3, value=210
+    no=4, value=148
+    no=5, value=150
+BinType:14, cost=801
+    no=1, value=112
+    no=2, value=349
+    no=3, value=175
+    no=4, value=296
+    no=5, value=426
+BinType:15, cost=806
+    no=1, value=282
+    no=2, value=167
+    no=3, value=292
+    no=4, value=223
+    no=5, value=368
+BinType:16, cost=807
+    no=1, value=176
+    no=2, value=231
+    no=3, value=209
+    no=4, value=383
+    no=5, value=345
+BinType:17, cost=814
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:18, cost=818
+    no=1, value=279
+    no=2, value=129
+    no=3, value=456
+    no=4, value=120
+    no=5, value=470
+BinType:19, cost=819
+    no=1, value=200
+    no=2, value=186
+    no=3, value=372
+    no=4, value=332
+    no=5, value=284
+BinType:20, cost=821
+    no=1, value=352
+    no=2, value=343
+    no=3, value=154
+    no=4, value=339
+    no=5, value=199
+BinType:21, cost=827
+    no=1, value=271
+    no=2, value=163
+    no=3, value=402
+    no=4, value=183
+    no=5, value=407
+BinType:22, cost=833
+    no=1, value=295
+    no=2, value=165
+    no=3, value=350
+    no=4, value=370
+    no=5, value=242
+BinType:23, cost=834
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+    no=4, value=173
+    no=5, value=495
+BinType:24, cost=835
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+    no=4, value=171
+    no=5, value=422
+BinType:25, cost=836
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:26, cost=837
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+    no=4, value=270
+    no=5, value=104
+BinType:27, cost=838
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:28, cost=846
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+    no=4, value=363
+    no=5, value=242
+BinType:29, cost=849
+    no=1, value=264
+    no=2, value=114
+    no=3, value=343
+    no=4, value=303
+    no=5, value=497
+BinType:30, cost=852
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+    no=4, value=480
+    no=5, value=203
+BinType:31, cost=853
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:32, cost=855
+    no=1, value=355
+    no=2, value=322
+    no=3, value=405
+    no=4, value=209
+    no=5, value=205
+BinType:33, cost=856
+    no=1, value=381
+    no=2, value=339
+    no=3, value=277
+    no=4, value=286
+    no=5, value=203
+BinType:34, cost=858
+    no=1, value=336
+    no=2, value=185
+    no=3, value=450
+    no=4, value=277
+    no=5, value=262
+BinType:35, cost=859
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:36, cost=863
+    no=1, value=410
+    no=2, value=424
+    no=3, value=341
+    no=4, value=208
+    no=5, value=164
+BinType:37, cost=867
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+    no=4, value=198
+    no=5, value=332
+BinType:38, cost=882
+    no=1, value=447
+    no=2, value=189
+    no=3, value=293
+    no=4, value=285
+    no=5, value=384
+BinType:39, cost=891
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:40, cost=897
+    no=1, value=317
+    no=2, value=475
+    no=3, value=428
+    no=4, value=107
+    no=5, value=376
+BinType:41, cost=899
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+    no=4, value=326
+    no=5, value=276
+BinType:42, cost=907
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+    no=4, value=445
+    no=5, value=345
+BinType:43, cost=907
+    no=1, value=368
+    no=2, value=246
+    no=3, value=453
+    no=4, value=462
+    no=5, value=182
+BinType:44, cost=914
+    no=1, value=455
+    no=2, value=313
+    no=3, value=224
+    no=4, value=242
+    no=5, value=490
+BinType:45, cost=926
+    no=1, value=386
+    no=2, value=293
+    no=3, value=371
+    no=4, value=449
+    no=5, value=245
+BinType:46, cost=928
+    no=1, value=483
+    no=2, value=131
+    no=3, value=344
+    no=4, value=387
+    no=5, value=460
+BinType:47, cost=958
+    no=1, value=470
+    no=2, value=429
+    no=3, value=185
+    no=4, value=372
+    no=5, value=432
+BinType:48, cost=961
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+BinType:49, cost=992
+    no=1, value=309
+    no=2, value=379
+    no=3, value=493
+    no=4, value=345
+    no=5, value=468
+BinType:50, cost=998
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+    no=4, value=239
+    no=5, value=398
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+instance=13,n=25,m=10,d=3,type=B3
+BinType:1, cost=851
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:2, cost=1209
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:3, cost=1332
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:4, cost=1391
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:5, cost=1460
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:6, cost=1641
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:7, cost=1765
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:8, cost=1920
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:9, cost=1994
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:10, cost=2133
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////
+instance=14,n=25,m=20,d=3,type=B3
+BinType:1, cost=851
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:2, cost=1209
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:3, cost=1332
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:4, cost=1387
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+BinType:5, cost=1388
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+BinType:6, cost=1391
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:7, cost=1460
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:8, cost=1463
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+BinType:9, cost=1533
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+BinType:10, cost=1641
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:11, cost=1673
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+BinType:12, cost=1717
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+BinType:13, cost=1765
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:14, cost=1866
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+BinType:15, cost=1920
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:16, cost=1994
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:17, cost=2071
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+BinType:18, cost=2133
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+BinType:19, cost=2133
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+BinType:20, cost=3013
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////
+instance=15,n=25,m=50,d=3,type=B3
+BinType:1, cost=851
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:2, cost=864
+    no=1, value=115
+    no=2, value=287
+    no=3, value=187
+BinType:3, cost=874
+    no=1, value=179
+    no=2, value=165
+    no=3, value=262
+BinType:4, cost=886
+    no=1, value=176
+    no=2, value=231
+    no=3, value=209
+BinType:5, cost=1000
+    no=1, value=112
+    no=2, value=349
+    no=3, value=175
+BinType:6, cost=1005
+    no=1, value=105
+    no=2, value=375
+    no=3, value=144
+BinType:7, cost=1184
+    no=1, value=264
+    no=2, value=114
+    no=3, value=343
+BinType:8, cost=1186
+    no=1, value=282
+    no=2, value=167
+    no=3, value=292
+BinType:9, cost=1209
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:10, cost=1252
+    no=1, value=200
+    no=2, value=186
+    no=3, value=372
+BinType:11, cost=1322
+    no=1, value=242
+    no=2, value=111
+    no=3, value=410
+BinType:12, cost=1326
+    no=1, value=322
+    no=2, value=134
+    no=3, value=328
+BinType:13, cost=1332
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:14, cost=1371
+    no=1, value=295
+    no=2, value=165
+    no=3, value=350
+BinType:15, cost=1387
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+BinType:16, cost=1388
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+BinType:17, cost=1391
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:18, cost=1415
+    no=1, value=341
+    no=2, value=199
+    no=3, value=295
+BinType:19, cost=1447
+    no=1, value=182
+    no=2, value=346
+    no=3, value=315
+BinType:20, cost=1460
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:21, cost=1460
+    no=1, value=271
+    no=2, value=163
+    no=3, value=402
+BinType:22, cost=1463
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+BinType:23, cost=1486
+    no=1, value=352
+    no=2, value=343
+    no=3, value=154
+BinType:24, cost=1533
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+BinType:25, cost=1585
+    no=1, value=279
+    no=2, value=129
+    no=3, value=456
+BinType:26, cost=1641
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:27, cost=1673
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+BinType:28, cost=1705
+    no=1, value=447
+    no=2, value=189
+    no=3, value=293
+BinType:29, cost=1717
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+BinType:30, cost=1765
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:31, cost=1780
+    no=1, value=138
+    no=2, value=492
+    no=3, value=303
+BinType:32, cost=1820
+    no=1, value=336
+    no=2, value=185
+    no=3, value=450
+BinType:33, cost=1828
+    no=1, value=381
+    no=2, value=339
+    no=3, value=277
+BinType:34, cost=1848
+    no=1, value=483
+    no=2, value=131
+    no=3, value=344
+BinType:35, cost=1858
+    no=1, value=455
+    no=2, value=313
+    no=3, value=224
+BinType:36, cost=1866
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+BinType:37, cost=1920
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:38, cost=1973
+    no=1, value=386
+    no=2, value=293
+    no=3, value=371
+BinType:39, cost=1994
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:40, cost=2027
+    no=1, value=361
+    no=2, value=476
+    no=3, value=210
+BinType:41, cost=2054
+    no=1, value=368
+    no=2, value=246
+    no=3, value=453
+BinType:42, cost=2060
+    no=1, value=355
+    no=2, value=322
+    no=3, value=405
+BinType:43, cost=2071
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+BinType:44, cost=2133
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+BinType:45, cost=2133
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+BinType:46, cost=2157
+    no=1, value=470
+    no=2, value=429
+    no=3, value=185
+BinType:47, cost=2332
+    no=1, value=410
+    no=2, value=424
+    no=3, value=341
+BinType:48, cost=2374
+    no=1, value=309
+    no=2, value=379
+    no=3, value=493
+BinType:49, cost=2484
+    no=1, value=317
+    no=2, value=475
+    no=3, value=428
+BinType:50, cost=3013
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////
+instance=16,n=25,m=10,d=5,type=B3
+BinType:1, cost=1695
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:2, cost=2023
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:3, cost=2275
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:4, cost=2304
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:5, cost=2591
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:6, cost=2695
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:7, cost=2781
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:8, cost=2850
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:9, cost=2906
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:10, cost=3820
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+instance=17,n=25,m=20,d=5,type=B3
+BinType:1, cost=1695
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:2, cost=2023
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:3, cost=2154
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+    no=4, value=252
+    no=5, value=170
+BinType:4, cost=2275
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:5, cost=2304
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:6, cost=2552
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+    no=4, value=171
+    no=5, value=422
+BinType:7, cost=2591
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:8, cost=2682
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+    no=4, value=270
+    no=5, value=104
+BinType:9, cost=2695
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:10, cost=2715
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+    no=4, value=173
+    no=5, value=495
+BinType:11, cost=2728
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+    no=4, value=480
+    no=5, value=203
+BinType:12, cost=2740
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+    no=4, value=363
+    no=5, value=242
+BinType:13, cost=2748
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+    no=4, value=198
+    no=5, value=332
+BinType:14, cost=2781
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:15, cost=2850
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:16, cost=2906
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:17, cost=3117
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+    no=4, value=326
+    no=5, value=276
+BinType:18, cost=3295
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+    no=4, value=445
+    no=5, value=345
+BinType:19, cost=3820
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+BinType:20, cost=4176
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+    no=4, value=239
+    no=5, value=398
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+instance=18,n=25,m=50,d=5,type=B3
+BinType:1, cost=1612
+    no=1, value=179
+    no=2, value=165
+    no=3, value=262
+    no=4, value=324
+    no=5, value=134
+BinType:2, cost=1689
+    no=1, value=242
+    no=2, value=111
+    no=3, value=410
+    no=4, value=146
+    no=5, value=154
+BinType:3, cost=1695
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:4, cost=1809
+    no=1, value=115
+    no=2, value=287
+    no=3, value=187
+    no=4, value=386
+    no=5, value=152
+BinType:5, cost=1933
+    no=1, value=322
+    no=2, value=134
+    no=3, value=328
+    no=4, value=168
+    no=5, value=248
+BinType:6, cost=1958
+    no=1, value=341
+    no=2, value=199
+    no=3, value=295
+    no=4, value=257
+    no=5, value=120
+BinType:7, cost=2023
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:8, cost=2057
+    no=1, value=182
+    no=2, value=346
+    no=3, value=315
+    no=4, value=245
+    no=5, value=173
+BinType:9, cost=2069
+    no=1, value=138
+    no=2, value=492
+    no=3, value=303
+    no=4, value=122
+    no=5, value=134
+BinType:10, cost=2154
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+    no=4, value=252
+    no=5, value=170
+BinType:11, cost=2198
+    no=1, value=105
+    no=2, value=375
+    no=3, value=144
+    no=4, value=301
+    no=5, value=356
+BinType:12, cost=2224
+    no=1, value=282
+    no=2, value=167
+    no=3, value=292
+    no=4, value=223
+    no=5, value=368
+BinType:13, cost=2275
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:14, cost=2275
+    no=1, value=176
+    no=2, value=231
+    no=3, value=209
+    no=4, value=383
+    no=5, value=345
+BinType:15, cost=2304
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:16, cost=2334
+    no=1, value=200
+    no=2, value=186
+    no=3, value=372
+    no=4, value=332
+    no=5, value=284
+BinType:17, cost=2388
+    no=1, value=112
+    no=2, value=349
+    no=3, value=175
+    no=4, value=296
+    no=5, value=426
+BinType:18, cost=2390
+    no=1, value=352
+    no=2, value=343
+    no=3, value=154
+    no=4, value=339
+    no=5, value=199
+BinType:19, cost=2390
+    no=1, value=361
+    no=2, value=476
+    no=3, value=210
+    no=4, value=148
+    no=5, value=150
+BinType:20, cost=2458
+    no=1, value=295
+    no=2, value=165
+    no=3, value=350
+    no=4, value=370
+    no=5, value=242
+BinType:21, cost=2528
+    no=1, value=271
+    no=2, value=163
+    no=3, value=402
+    no=4, value=183
+    no=5, value=407
+BinType:22, cost=2552
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+    no=4, value=171
+    no=5, value=422
+BinType:23, cost=2591
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:24, cost=2600
+    no=1, value=381
+    no=2, value=339
+    no=3, value=277
+    no=4, value=286
+    no=5, value=203
+BinType:25, cost=2655
+    no=1, value=355
+    no=2, value=322
+    no=3, value=405
+    no=4, value=209
+    no=5, value=205
+BinType:26, cost=2682
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+    no=4, value=270
+    no=5, value=104
+BinType:27, cost=2695
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:28, cost=2705
+    no=1, value=336
+    no=2, value=185
+    no=3, value=450
+    no=4, value=277
+    no=5, value=262
+BinType:29, cost=2715
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+    no=4, value=173
+    no=5, value=495
+BinType:30, cost=2728
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+    no=4, value=480
+    no=5, value=203
+BinType:31, cost=2734
+    no=1, value=279
+    no=2, value=129
+    no=3, value=456
+    no=4, value=120
+    no=5, value=470
+BinType:32, cost=2740
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+    no=4, value=363
+    no=5, value=242
+BinType:33, cost=2748
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+    no=4, value=198
+    no=5, value=332
+BinType:34, cost=2781
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:35, cost=2818
+    no=1, value=264
+    no=2, value=114
+    no=3, value=343
+    no=4, value=303
+    no=5, value=497
+BinType:36, cost=2841
+    no=1, value=410
+    no=2, value=424
+    no=3, value=341
+    no=4, value=208
+    no=5, value=164
+BinType:37, cost=2850
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:38, cost=2906
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:39, cost=2938
+    no=1, value=447
+    no=2, value=189
+    no=3, value=293
+    no=4, value=285
+    no=5, value=384
+BinType:40, cost=3117
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+    no=4, value=326
+    no=5, value=276
+BinType:41, cost=3292
+    no=1, value=368
+    no=2, value=246
+    no=3, value=453
+    no=4, value=462
+    no=5, value=182
+BinType:42, cost=3295
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+    no=4, value=445
+    no=5, value=345
+BinType:43, cost=3307
+    no=1, value=386
+    no=2, value=293
+    no=3, value=371
+    no=4, value=449
+    no=5, value=245
+BinType:44, cost=3318
+    no=1, value=455
+    no=2, value=313
+    no=3, value=224
+    no=4, value=242
+    no=5, value=490
+BinType:45, cost=3323
+    no=1, value=317
+    no=2, value=475
+    no=3, value=428
+    no=4, value=107
+    no=5, value=376
+BinType:46, cost=3595
+    no=1, value=483
+    no=2, value=131
+    no=3, value=344
+    no=4, value=387
+    no=5, value=460
+BinType:47, cost=3771
+    no=1, value=470
+    no=2, value=429
+    no=3, value=185
+    no=4, value=372
+    no=5, value=432
+BinType:48, cost=3820
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+BinType:49, cost=4026
+    no=1, value=309
+    no=2, value=379
+    no=3, value=493
+    no=4, value=345
+    no=5, value=468
+BinType:50, cost=4176
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+    no=4, value=239
+    no=5, value=398
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+instance=19,n=25,m=10,d=3,type=B4
+BinType:1, cost=660
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:2, cost=664
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:3, cost=703
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:4, cost=848
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:5, cost=852
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:6, cost=946
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:7, cost=1051
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:8, cost=1187
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:9, cost=1282
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:10, cost=1388
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////
+instance=20,n=25,m=20,d=3,type=B4
+BinType:1, cost=660
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:2, cost=663
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+BinType:3, cost=664
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:4, cost=703
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:5, cost=710
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+BinType:6, cost=835
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+BinType:7, cost=848
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:8, cost=852
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:9, cost=901
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+BinType:10, cost=916
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+BinType:11, cost=946
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:12, cost=1051
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:13, cost=1071
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+BinType:14, cost=1187
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:15, cost=1282
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:16, cost=1297
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+BinType:17, cost=1299
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+BinType:18, cost=1335
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+BinType:19, cost=1388
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+BinType:20, cost=1767
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////
+instance=21,n=25,m=50,d=3,type=B4
+BinType:1, cost=470
+    no=1, value=105
+    no=2, value=375
+    no=3, value=144
+BinType:2, cost=529
+    no=1, value=112
+    no=2, value=349
+    no=3, value=175
+BinType:3, cost=539
+    no=1, value=115
+    no=2, value=287
+    no=3, value=187
+BinType:4, cost=629
+    no=1, value=176
+    no=2, value=231
+    no=3, value=209
+BinType:5, cost=660
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+BinType:6, cost=663
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+BinType:7, cost=664
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+BinType:8, cost=703
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+BinType:9, cost=710
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+BinType:10, cost=728
+    no=1, value=352
+    no=2, value=343
+    no=3, value=154
+BinType:11, cost=731
+    no=1, value=179
+    no=2, value=165
+    no=3, value=262
+BinType:12, cost=835
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+BinType:13, cost=848
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+BinType:14, cost=852
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+BinType:15, cost=883
+    no=1, value=361
+    no=2, value=476
+    no=3, value=210
+BinType:16, cost=886
+    no=1, value=138
+    no=2, value=492
+    no=3, value=303
+BinType:17, cost=901
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+BinType:18, cost=909
+    no=1, value=282
+    no=2, value=167
+    no=3, value=292
+BinType:19, cost=916
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+BinType:20, cost=927
+    no=1, value=182
+    no=2, value=346
+    no=3, value=315
+BinType:21, cost=928
+    no=1, value=470
+    no=2, value=429
+    no=3, value=185
+BinType:22, cost=946
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+BinType:23, cost=966
+    no=1, value=455
+    no=2, value=313
+    no=3, value=224
+BinType:24, cost=988
+    no=1, value=341
+    no=2, value=199
+    no=3, value=295
+BinType:25, cost=1005
+    no=1, value=264
+    no=2, value=114
+    no=3, value=343
+BinType:26, cost=1026
+    no=1, value=381
+    no=2, value=339
+    no=3, value=277
+BinType:27, cost=1031
+    no=1, value=322
+    no=2, value=134
+    no=3, value=328
+BinType:28, cost=1051
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+BinType:29, cost=1053
+    no=1, value=200
+    no=2, value=186
+    no=3, value=372
+BinType:30, cost=1071
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+BinType:31, cost=1077
+    no=1, value=295
+    no=2, value=165
+    no=3, value=350
+BinType:32, cost=1085
+    no=1, value=447
+    no=2, value=189
+    no=3, value=293
+BinType:33, cost=1177
+    no=1, value=242
+    no=2, value=111
+    no=3, value=410
+BinType:34, cost=1187
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+BinType:35, cost=1204
+    no=1, value=271
+    no=2, value=163
+    no=3, value=402
+BinType:36, cost=1235
+    no=1, value=483
+    no=2, value=131
+    no=3, value=344
+BinType:37, cost=1244
+    no=1, value=410
+    no=2, value=424
+    no=3, value=341
+BinType:38, cost=1271
+    no=1, value=386
+    no=2, value=293
+    no=3, value=371
+BinType:39, cost=1282
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+BinType:40, cost=1297
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+BinType:41, cost=1299
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+BinType:42, cost=1335
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+BinType:43, cost=1349
+    no=1, value=355
+    no=2, value=322
+    no=3, value=405
+BinType:44, cost=1365
+    no=1, value=279
+    no=2, value=129
+    no=3, value=456
+BinType:45, cost=1388
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+BinType:46, cost=1419
+    no=1, value=317
+    no=2, value=475
+    no=3, value=428
+BinType:47, cost=1426
+    no=1, value=336
+    no=2, value=185
+    no=3, value=450
+BinType:48, cost=1488
+    no=1, value=368
+    no=2, value=246
+    no=3, value=453
+BinType:49, cost=1597
+    no=1, value=309
+    no=2, value=379
+    no=3, value=493
+BinType:50, cost=1767
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+/////////////////////////////////////////////
+instance=22,n=25,m=10,d=5,type=B4
+BinType:1, cost=934
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:2, cost=1003
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:3, cost=1253
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:4, cost=1278
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:5, cost=1397
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:6, cost=1449
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:7, cost=1522
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:8, cost=1698
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:9, cost=1700
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:10, cost=1938
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+instance=23,n=25,m=20,d=5,type=B4
+BinType:1, cost=934
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:2, cost=1003
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:3, cost=1092
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+    no=4, value=252
+    no=5, value=170
+BinType:4, cost=1181
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+    no=4, value=363
+    no=5, value=242
+BinType:5, cost=1211
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+    no=4, value=171
+    no=5, value=422
+BinType:6, cost=1253
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:7, cost=1278
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:8, cost=1393
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+    no=4, value=326
+    no=5, value=276
+BinType:9, cost=1397
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:10, cost=1449
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:11, cost=1466
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+    no=4, value=173
+    no=5, value=495
+BinType:12, cost=1522
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:13, cost=1538
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+    no=4, value=480
+    no=5, value=203
+BinType:14, cost=1670
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+    no=4, value=270
+    no=5, value=104
+BinType:15, cost=1698
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:16, cost=1700
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:17, cost=1715
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+    no=4, value=198
+    no=5, value=332
+BinType:18, cost=1927
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+    no=4, value=445
+    no=5, value=345
+BinType:19, cost=1938
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+BinType:20, cost=2205
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+    no=4, value=239
+    no=5, value=398
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+instance=24,n=25,m=50,d=5,type=B4
+BinType:1, cost=934
+    no=1, value=251
+    no=2, value=371
+    no=3, value=170
+    no=4, value=148
+    no=5, value=150
+BinType:2, cost=959
+    no=1, value=105
+    no=2, value=375
+    no=3, value=144
+    no=4, value=301
+    no=5, value=356
+BinType:3, cost=1003
+    no=1, value=206
+    no=2, value=177
+    no=3, value=218
+    no=4, value=126
+    no=5, value=474
+BinType:4, cost=1031
+    no=1, value=112
+    no=2, value=349
+    no=3, value=175
+    no=4, value=296
+    no=5, value=426
+BinType:5, cost=1048
+    no=1, value=115
+    no=2, value=287
+    no=3, value=187
+    no=4, value=386
+    no=5, value=152
+BinType:6, cost=1092
+    no=1, value=146
+    no=2, value=467
+    no=3, value=230
+    no=4, value=252
+    no=5, value=170
+BinType:7, cost=1123
+    no=1, value=138
+    no=2, value=492
+    no=3, value=303
+    no=4, value=122
+    no=5, value=134
+BinType:8, cost=1153
+    no=1, value=361
+    no=2, value=476
+    no=3, value=210
+    no=4, value=148
+    no=5, value=150
+BinType:9, cost=1170
+    no=1, value=179
+    no=2, value=165
+    no=3, value=262
+    no=4, value=324
+    no=5, value=134
+BinType:10, cost=1181
+    no=1, value=317
+    no=2, value=457
+    no=3, value=121
+    no=4, value=363
+    no=5, value=242
+BinType:11, cost=1197
+    no=1, value=176
+    no=2, value=231
+    no=3, value=209
+    no=4, value=383
+    no=5, value=345
+BinType:12, cost=1208
+    no=1, value=352
+    no=2, value=343
+    no=3, value=154
+    no=4, value=339
+    no=5, value=199
+BinType:13, cost=1211
+    no=1, value=368
+    no=2, value=275
+    no=3, value=209
+    no=4, value=171
+    no=5, value=422
+BinType:14, cost=1253
+    no=1, value=468
+    no=2, value=152
+    no=3, value=190
+    no=4, value=236
+    no=5, value=274
+BinType:15, cost=1278
+    no=1, value=182
+    no=2, value=494
+    no=3, value=208
+    no=4, value=428
+    no=5, value=219
+BinType:16, cost=1303
+    no=1, value=182
+    no=2, value=346
+    no=3, value=315
+    no=4, value=245
+    no=5, value=173
+BinType:17, cost=1323
+    no=1, value=282
+    no=2, value=167
+    no=3, value=292
+    no=4, value=223
+    no=5, value=368
+BinType:18, cost=1354
+    no=1, value=341
+    no=2, value=199
+    no=3, value=295
+    no=4, value=257
+    no=5, value=120
+BinType:19, cost=1356
+    no=1, value=322
+    no=2, value=134
+    no=3, value=328
+    no=4, value=168
+    no=5, value=248
+BinType:20, cost=1393
+    no=1, value=431
+    no=2, value=438
+    no=3, value=190
+    no=4, value=326
+    no=5, value=276
+BinType:21, cost=1397
+    no=1, value=226
+    no=2, value=255
+    no=3, value=278
+    no=4, value=412
+    no=5, value=189
+BinType:22, cost=1429
+    no=1, value=455
+    no=2, value=313
+    no=3, value=224
+    no=4, value=242
+    no=5, value=490
+BinType:23, cost=1447
+    no=1, value=242
+    no=2, value=111
+    no=3, value=410
+    no=4, value=146
+    no=5, value=154
+BinType:24, cost=1449
+    no=1, value=495
+    no=2, value=238
+    no=3, value=207
+    no=4, value=378
+    no=5, value=157
+BinType:25, cost=1454
+    no=1, value=381
+    no=2, value=339
+    no=3, value=277
+    no=4, value=286
+    no=5, value=203
+BinType:26, cost=1466
+    no=1, value=335
+    no=2, value=133
+    no=3, value=338
+    no=4, value=173
+    no=5, value=495
+BinType:27, cost=1507
+    no=1, value=470
+    no=2, value=429
+    no=3, value=185
+    no=4, value=372
+    no=5, value=432
+BinType:28, cost=1522
+    no=1, value=305
+    no=2, value=415
+    no=3, value=309
+    no=4, value=306
+    no=5, value=273
+BinType:29, cost=1530
+    no=1, value=264
+    no=2, value=114
+    no=3, value=343
+    no=4, value=303
+    no=5, value=497
+BinType:30, cost=1538
+    no=1, value=367
+    no=2, value=197
+    no=3, value=256
+    no=4, value=480
+    no=5, value=203
+BinType:31, cost=1553
+    no=1, value=200
+    no=2, value=186
+    no=3, value=372
+    no=4, value=332
+    no=5, value=284
+BinType:32, cost=1565
+    no=1, value=447
+    no=2, value=189
+    no=3, value=293
+    no=4, value=285
+    no=5, value=384
+BinType:33, cost=1580
+    no=1, value=410
+    no=2, value=424
+    no=3, value=341
+    no=4, value=208
+    no=5, value=164
+BinType:34, cost=1588
+    no=1, value=271
+    no=2, value=163
+    no=3, value=402
+    no=4, value=183
+    no=5, value=407
+BinType:35, cost=1602
+    no=1, value=295
+    no=2, value=165
+    no=3, value=350
+    no=4, value=370
+    no=5, value=242
+BinType:36, cost=1670
+    no=1, value=295
+    no=2, value=408
+    no=3, value=401
+    no=4, value=270
+    no=5, value=104
+BinType:37, cost=1698
+    no=1, value=396
+    no=2, value=303
+    no=3, value=406
+    no=4, value=181
+    no=5, value=167
+BinType:38, cost=1700
+    no=1, value=247
+    no=2, value=151
+    no=3, value=406
+    no=4, value=310
+    no=5, value=415
+BinType:39, cost=1701
+    no=1, value=355
+    no=2, value=322
+    no=3, value=405
+    no=4, value=209
+    no=5, value=205
+BinType:40, cost=1701
+    no=1, value=279
+    no=2, value=129
+    no=3, value=456
+    no=4, value=120
+    no=5, value=470
+BinType:41, cost=1715
+    no=1, value=309
+    no=2, value=278
+    no=3, value=420
+    no=4, value=198
+    no=5, value=332
+BinType:42, cost=1719
+    no=1, value=317
+    no=2, value=475
+    no=3, value=428
+    no=4, value=107
+    no=5, value=376
+BinType:43, cost=1836
+    no=1, value=483
+    no=2, value=131
+    no=3, value=344
+    no=4, value=387
+    no=5, value=460
+BinType:44, cost=1864
+    no=1, value=336
+    no=2, value=185
+    no=3, value=450
+    no=4, value=277
+    no=5, value=262
+BinType:45, cost=1876
+    no=1, value=386
+    no=2, value=293
+    no=3, value=371
+    no=4, value=449
+    no=5, value=245
+BinType:46, cost=1927
+    no=1, value=390
+    no=2, value=135
+    no=3, value=397
+    no=4, value=445
+    no=5, value=345
+BinType:47, cost=1938
+    no=1, value=488
+    no=2, value=189
+    no=3, value=351
+    no=4, value=451
+    no=5, value=423
+BinType:48, cost=2084
+    no=1, value=368
+    no=2, value=246
+    no=3, value=453
+    no=4, value=462
+    no=5, value=182
+BinType:49, cost=2158
+    no=1, value=309
+    no=2, value=379
+    no=3, value=493
+    no=4, value=345
+    no=5, value=468
+BinType:50, cost=2205
+    no=1, value=468
+    no=2, value=436
+    no=3, value=492
+    no=4, value=239
+    no=5, value=398
+Item: no=1
+   no=1, value=72
+   no=2, value=18
+   no=3, value=42
+   no=4, value=19
+   no=5, value=37
+Item: no=2
+   no=1, value=22
+   no=2, value=15
+   no=3, value=93
+   no=4, value=49
+   no=5, value=39
+Item: no=3
+   no=1, value=49
+   no=2, value=46
+   no=3, value=20
+   no=4, value=68
+   no=5, value=94
+Item: no=4
+   no=1, value=5
+   no=2, value=20
+   no=3, value=6
+   no=4, value=89
+   no=5, value=93
+Item: no=5
+   no=1, value=43
+   no=2, value=71
+   no=3, value=22
+   no=4, value=55
+   no=5, value=6
+Item: no=6
+   no=1, value=86
+   no=2, value=75
+   no=3, value=9
+   no=4, value=51
+   no=5, value=34
+Item: no=7
+   no=1, value=96
+   no=2, value=30
+   no=3, value=97
+   no=4, value=35
+   no=5, value=91
+Item: no=8
+   no=1, value=45
+   no=2, value=29
+   no=3, value=27
+   no=4, value=39
+   no=5, value=33
+Item: no=9
+   no=1, value=15
+   no=2, value=4
+   no=3, value=60
+   no=4, value=59
+   no=5, value=83
+Item: no=10
+   no=1, value=56
+   no=2, value=13
+   no=3, value=45
+   no=4, value=40
+   no=5, value=18
+Item: no=11
+   no=1, value=66
+   no=2, value=29
+   no=3, value=66
+   no=4, value=7
+   no=5, value=38
+Item: no=12
+   no=1, value=68
+   no=2, value=98
+   no=3, value=59
+   no=4, value=86
+   no=5, value=64
+Item: no=13
+   no=1, value=68
+   no=2, value=91
+   no=3, value=36
+   no=4, value=26
+   no=5, value=11
+Item: no=14
+   no=1, value=55
+   no=2, value=3
+   no=3, value=94
+   no=4, value=89
+   no=5, value=43
+Item: no=15
+   no=1, value=99
+   no=2, value=14
+   no=3, value=52
+   no=4, value=61
+   no=5, value=76
+Item: no=16
+   no=1, value=40
+   no=2, value=56
+   no=3, value=35
+   no=4, value=88
+   no=5, value=35
+Item: no=17
+   no=1, value=93
+   no=2, value=81
+   no=3, value=34
+   no=4, value=26
+   no=5, value=56
+Item: no=18
+   no=1, value=89
+   no=2, value=7
+   no=3, value=67
+   no=4, value=5
+   no=5, value=86
+Item: no=19
+   no=1, value=88
+   no=2, value=70
+   no=3, value=91
+   no=4, value=39
+   no=5, value=90
+Item: no=20
+   no=1, value=33
+   no=2, value=45
+   no=3, value=95
+   no=4, value=73
+   no=5, value=58
+Item: no=21
+   no=1, value=89
+   no=2, value=44
+   no=3, value=19
+   no=4, value=79
+   no=5, value=74
+Item: no=22
+   no=1, value=46
+   no=2, value=6
+   no=3, value=14
+   no=4, value=9
+   no=5, value=62
+Item: no=23
+   no=1, value=46
+   no=2, value=90
+   no=3, value=60
+   no=4, value=66
+   no=5, value=66
+Item: no=24
+   no=1, value=88
+   no=2, value=40
+   no=3, value=45
+   no=4, value=79
+   no=5, value=80
+Item: no=25
+   no=1, value=58
+   no=2, value=26
+   no=3, value=75
+   no=4, value=52
+   no=5, value=80
+/////////////////////////////////////////////
+/////////////////////////////////////////////
+Links between items
+Link 1: itemNo1=1, itemNo2=3, cost=22
+Link 2: itemNo1=1, itemNo2=11, cost=24
+Link 3: itemNo1=1, itemNo2=23, cost=93
+Link 4: itemNo1=2, itemNo2=3, cost=91
+Link 5: itemNo1=2, itemNo2=9, cost=15
+Link 6: itemNo1=2, itemNo2=20, cost=11
+Link 7: itemNo1=2, itemNo2=23, cost=53
+Link 8: itemNo1=3, itemNo2=8, cost=9
+Link 9: itemNo1=3, itemNo2=11, cost=95
+Link 10: itemNo1=3, itemNo2=12, cost=27
+Link 11: itemNo1=3, itemNo2=16, cost=86
+Link 12: itemNo1=3, itemNo2=21, cost=6
+Link 13: itemNo1=4, itemNo2=1, cost=42
+Link 14: itemNo1=4, itemNo2=6, cost=14
+Link 15: itemNo1=4, itemNo2=7, cost=40
+Link 16: itemNo1=4, itemNo2=14, cost=30
+Link 17: itemNo1=4, itemNo2=18, cost=94
+Link 18: itemNo1=4, itemNo2=20, cost=48
+Link 19: itemNo1=5, itemNo2=1, cost=89
+Link 20: itemNo1=5, itemNo2=11, cost=15
+Link 21: itemNo1=5, itemNo2=13, cost=57
+Link 22: itemNo1=5, itemNo2=15, cost=35
+Link 23: itemNo1=6, itemNo2=7, cost=61
+Link 24: itemNo1=6, itemNo2=16, cost=4
+Link 25: itemNo1=6, itemNo2=25, cost=3
+Link 26: itemNo1=7, itemNo2=9, cost=86
+Link 27: itemNo1=7, itemNo2=11, cost=69
+Link 28: itemNo1=7, itemNo2=19, cost=38
+Link 29: itemNo1=7, itemNo2=20, cost=78
+Link 30: itemNo1=7, itemNo2=22, cost=10
+Link 31: itemNo1=8, itemNo2=2, cost=78
+Link 32: itemNo1=8, itemNo2=3, cost=51
+Link 33: itemNo1=8, itemNo2=4, cost=72
+Link 34: itemNo1=8, itemNo2=7, cost=45
+Link 35: itemNo1=8, itemNo2=11, cost=50
+Link 36: itemNo1=8, itemNo2=13, cost=60
+Link 37: itemNo1=8, itemNo2=19, cost=54
+Link 38: itemNo1=8, itemNo2=21, cost=62
+Link 39: itemNo1=8, itemNo2=23, cost=59
+Link 40: itemNo1=9, itemNo2=8, cost=48
+Link 41: itemNo1=9, itemNo2=16, cost=41
+Link 42: itemNo1=9, itemNo2=18, cost=83
+Link 43: itemNo1=10, itemNo2=2, cost=21
+Link 44: itemNo1=10, itemNo2=4, cost=49
+Link 45: itemNo1=10, itemNo2=9, cost=43
+Link 46: itemNo1=10, itemNo2=13, cost=38
+Link 47: itemNo1=10, itemNo2=15, cost=26
+Link 48: itemNo1=10, itemNo2=17, cost=38
+Link 49: itemNo1=10, itemNo2=18, cost=2
+Link 50: itemNo1=10, itemNo2=22, cost=73
+Link 51: itemNo1=10, itemNo2=25, cost=42
+Link 52: itemNo1=11, itemNo2=10, cost=68
+Link 53: itemNo1=11, itemNo2=18, cost=58
+Link 54: itemNo1=11, itemNo2=25, cost=80
+Link 55: itemNo1=12, itemNo2=3, cost=1
+Link 56: itemNo1=12, itemNo2=6, cost=86
+Link 57: itemNo1=13, itemNo2=5, cost=30
+Link 58: itemNo1=13, itemNo2=16, cost=24
+Link 59: itemNo1=13, itemNo2=17, cost=81
+Link 60: itemNo1=13, itemNo2=22, cost=28
+Link 61: itemNo1=13, itemNo2=23, cost=85
+Link 62: itemNo1=14, itemNo2=1, cost=80
+Link 63: itemNo1=14, itemNo2=4, cost=9
+Link 64: itemNo1=14, itemNo2=6, cost=44
+Link 65: itemNo1=14, itemNo2=8, cost=22
+Link 66: itemNo1=14, itemNo2=10, cost=38
+Link 67: itemNo1=14, itemNo2=15, cost=69
+Link 68: itemNo1=14, itemNo2=16, cost=63
+Link 69: itemNo1=14, itemNo2=19, cost=83
+Link 70: itemNo1=14, itemNo2=20, cost=79
+Link 71: itemNo1=15, itemNo2=4, cost=34
+Link 72: itemNo1=15, itemNo2=7, cost=15
+Link 73: itemNo1=15, itemNo2=12, cost=17
+Link 74: itemNo1=15, itemNo2=19, cost=40
+Link 75: itemNo1=15, itemNo2=20, cost=46
+Link 76: itemNo1=15, itemNo2=22, cost=33
+Link 77: itemNo1=16, itemNo2=1, cost=75
+Link 78: itemNo1=16, itemNo2=3, cost=84
+Link 79: itemNo1=16, itemNo2=4, cost=63
+Link 80: itemNo1=16, itemNo2=19, cost=69
+Link 81: itemNo1=16, itemNo2=21, cost=35
+Link 82: itemNo1=16, itemNo2=24, cost=71
+Link 83: itemNo1=17, itemNo2=3, cost=35
+Link 84: itemNo1=17, itemNo2=5, cost=73
+Link 85: itemNo1=17, itemNo2=6, cost=26
+Link 86: itemNo1=17, itemNo2=15, cost=83
+Link 87: itemNo1=17, itemNo2=16, cost=52
+Link 88: itemNo1=17, itemNo2=24, cost=65
+Link 89: itemNo1=18, itemNo2=3, cost=43
+Link 90: itemNo1=18, itemNo2=10, cost=3
+Link 91: itemNo1=18, itemNo2=11, cost=12
+Link 92: itemNo1=18, itemNo2=13, cost=68
+Link 93: itemNo1=18, itemNo2=24, cost=21
+Link 94: itemNo1=18, itemNo2=25, cost=64
+Link 95: itemNo1=19, itemNo2=2, cost=13
+Link 96: itemNo1=19, itemNo2=3, cost=5
+Link 97: itemNo1=19, itemNo2=11, cost=3
+Link 98: itemNo1=19, itemNo2=13, cost=4
+Link 99: itemNo1=19, itemNo2=14, cost=54
+Link 100: itemNo1=19, itemNo2=15, cost=99
+Link 101: itemNo1=19, itemNo2=16, cost=58
+Link 102: itemNo1=19, itemNo2=20, cost=88
+Link 103: itemNo1=19, itemNo2=23, cost=72
+Link 104: itemNo1=20, itemNo2=17, cost=37
+Link 105: itemNo1=20, itemNo2=18, cost=61
+Link 106: itemNo1=20, itemNo2=22, cost=8
+Link 107: itemNo1=21, itemNo2=3, cost=63
+Link 108: itemNo1=21, itemNo2=6, cost=89
+Link 109: itemNo1=21, itemNo2=7, cost=60
+Link 110: itemNo1=21, itemNo2=8, cost=11
+Link 111: itemNo1=21, itemNo2=10, cost=64
+Link 112: itemNo1=21, itemNo2=23, cost=67
+Link 113: itemNo1=21, itemNo2=25, cost=8
+Link 114: itemNo1=22, itemNo2=2, cost=94
+Link 115: itemNo1=22, itemNo2=7, cost=40
+Link 116: itemNo1=22, itemNo2=11, cost=75
+Link 117: itemNo1=22, itemNo2=15, cost=12
+Link 118: itemNo1=22, itemNo2=21, cost=95
+Link 119: itemNo1=23, itemNo2=2, cost=87
+Link 120: itemNo1=23, itemNo2=11, cost=97
+Link 121: itemNo1=23, itemNo2=12, cost=26
+Link 122: itemNo1=23, itemNo2=18, cost=43
+Link 123: itemNo1=23, itemNo2=19, cost=83
+Link 124: itemNo1=23, itemNo2=21, cost=52
+Link 125: itemNo1=23, itemNo2=25, cost=76
+Link 126: itemNo1=24, itemNo2=10, cost=50
+Link 127: itemNo1=24, itemNo2=17, cost=83
+Link 128: itemNo1=24, itemNo2=21, cost=29
+Link 129: itemNo1=24, itemNo2=25, cost=29
+Link 130: itemNo1=25, itemNo2=2, cost=91
+Link 131: itemNo1=25, itemNo2=15, cost=16
+Link 132: itemNo1=25, itemNo2=17, cost=32
+Link 133: itemNo1=25, itemNo2=18, cost=37
